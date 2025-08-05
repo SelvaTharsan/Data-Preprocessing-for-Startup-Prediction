@@ -10,9 +10,9 @@ A machine learning project that analyzes Crunchbase startup data to predict whet
 - Reproducible Pipeline: Jupyter Notebook + Python script for easy reuse
 
 ## Dataset
-Source: Crunchbase (companies_new.csv)
-Size: 52,000+ startup records
-Features: Funding amounts, founding dates, categories, locations, etc.
+- Source: Crunchbase (companies_new.csv)
+- Size: 52,000+ startup records
+- Features: Funding amounts, founding dates, categories, locations, etc.
 
 ## Tech Stack
 
